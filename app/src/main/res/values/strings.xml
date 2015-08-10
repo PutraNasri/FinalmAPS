@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wet wet Aceh</string>
+
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Maps</string>
+    <string name="title_activity">About</string>
+    <string name="title_activity_list">list</string>
+    <string name="title_activity_setting">setting</string>
+    <string name="title_activity_detail__place">Detail_Place</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="abtpt">Aplikasi ini kami buat untuk memenuhi syarat final untuk mata kuliah Pengenalan Aplikasi Bergerak.
+        Kami akan terus berupaya untuk meningkatkan kinerja aplikasi ini sehingga dapat memuaskan para pengguna.
+        Terima Kasih.........................................
+        </string>
+    <string name="klp">Irfan Mulia 1204105010007</string>
+    <string name="klpp">Muhammad Zulfikar 1204105010075</string>
+    <string name="klppp">Putra Nasri Syawaldi 1204105010079</string>
+    <string name="title_activity_mapsview">mapsview</string>
+    <string name="title_activity_galeri">galeri</string>
+</resources>
+
